@@ -2,7 +2,6 @@ import streamlit
 import pandas 
 import requests
 import snowflake.connector
-source /home/appuser/venv/bin/activate
 pip install 'pyarrow<10.1.0,>=10.0.1'
 
 
